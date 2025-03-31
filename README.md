@@ -79,7 +79,7 @@
         }
     </style>
     </head>
-    <table><style="width:100,border-color:#b9b8d9">
+    <table>
 	<caption>Computer laps University of Cambodia </caption>
 	<tr>
 		<th>Multimedia Lap </th>
